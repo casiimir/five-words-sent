@@ -1,0 +1,23 @@
+{
+  "name": "five-words-sent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "consola": "^2.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casiimir/five-words-sent.git"
+  },
+  "author": "casiimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casiimir/five-words-sent/issues"
+  },
+  "homepage": "https://github.com/casiimir/five-words-sent#readme"
+}
